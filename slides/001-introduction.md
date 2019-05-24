@@ -1,10 +1,12 @@
 ---
 notes: |
-  Something something JavaScript
+  JS is a programming language empowering you to build things on the web
+  What does that mean?
+  What does a browser do?
 ---
 
-## Introduction
+## Hello again! 👋
 
-Congratulations on your new slide deck 🎉
+### JavaScript Beginners Workshop - Build Your First Webapp with EmberJS
 
-As with other [Empress](https://github.com/empress) project you write your content in Markdown with a bit of Yaml frontmatter
+Follow along with Training Buddy app: https://emberginners-workshop.netlify.com
