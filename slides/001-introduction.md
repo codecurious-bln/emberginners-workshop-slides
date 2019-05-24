@@ -1,6 +1,8 @@
 ---
-notes:
+notes: |
+  Something something JavaScript
 ---
+
 ## Introduction
 
 Congratulations on your new slide deck 🎉

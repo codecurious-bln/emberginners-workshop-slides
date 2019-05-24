@@ -4,7 +4,8 @@ notes: |
 
   They are written in **Markdown** so you can do whatever you would like here
 ---
-## Slide Notes
+
+## What is Ember?
 
 Each slide can have notes so you can open notes view now and take a look.
 
