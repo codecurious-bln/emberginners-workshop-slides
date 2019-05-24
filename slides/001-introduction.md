@@ -14,12 +14,15 @@ notes: |
 
   The Training buddy will have a bunch of helpful information including all the commands and code that we're going to be using today so you can just copy and paste from there. If everyone has it open then we can get started
 ---
-### Welcome Emberginners 🎉
+### Hello Again 👋
 
 Learning how to code with ![simplabs](/images/simplabs-white.png)<!-- .element style="border: 0; background: None; box-shadow: None; width: 200px; margin: 0; vertical-align: middle;" -->
 
-![jessica](/images/jessica.jpeg)<!-- .element style="height: 150px; margin: 50px" -->
-![chris](/images/chris.jpg)<!-- .element style="height: 150px; margin: 50px" -->
+![samanta](/images/samanta.jpg)<!-- .element style="height: 150px; margin: 0 50px" -->
+![chris](/images/chris.jpeg)<!-- .element style="height: 150px; margin: 0 50px" -->
+![elvina](/images/elvina.jpg)<!-- .element style="height: 150px; margin: 0 50px" -->
+![isaac](/images/isaac.jpeg)<!-- .element style="height: 150px; margin: 0 50px" -->
+![jessica](/images/jessica.jpeg)<!-- .element style="height: 150px; margin: 0 50px" -->
 
 Slides:
 <br>
